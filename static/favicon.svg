@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128mm"
+   height="128mm"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient12">
+      <stop
+         style="stop-color:#ca9ee6;stop-opacity:1;"
+         offset="0"
+         id="stop12" />
+      <stop
+         style="stop-color:#8caaee;stop-opacity:1;"
+         offset="1"
+         id="stop13" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient12"
+       id="linearGradient13"
+       x1="26.055532"
+       y1="10.340079"
+       x2="116.16321"
+       y2="100.44775"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0044444,0,0,1.0044444,-7.4254174,8.3598856)" />
+  </defs>
+  <g
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:109.134px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:url(#linearGradient13);stroke:none;stroke-width:0.568402"
+       x="-3.6758096"
+       y="102.79369"
+       id="text8"><tspan
+         style="fill:url(#linearGradient13);stroke:none;stroke-width:0.568402"
+         x="-3.6758096"
+         y="102.79369"
+         id="tspan9">SB</tspan></text>
+  </g>
+</svg>
